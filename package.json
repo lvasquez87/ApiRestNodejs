@@ -1,0 +1,19 @@
+{
+  "name": "nodejsapirest",
+  "version": "1.0.0",
+  "description": "API Rest con Nodejs para mssql",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvasquez87/ApiRestNodejs.git"
+  },
+  "author": "lvasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvasquez87/ApiRestNodejs/issues"
+  },
+  "homepage": "https://github.com/lvasquez87/ApiRestNodejs#readme"
+}
